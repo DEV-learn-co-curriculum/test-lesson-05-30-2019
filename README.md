@@ -2,6 +2,7 @@
 
 1. Objective 1
 2. Objective 2
+3. New thing
 
 ## Instructions
 
